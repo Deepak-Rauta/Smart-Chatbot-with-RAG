@@ -1,0 +1,15 @@
+langchain_core
+python-dotenv
+langchain_community
+langserve 
+fastapi
+uvicorn
+google-generativeai
+langchain-google-genai
+faiss-cpu
+chromadb
+pinecone-client
+serpapi
+langserve
+tiktoken
+sse_starlette
